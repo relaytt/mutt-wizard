@@ -44,7 +44,7 @@ recent version manually or manually remove the offending lines in the config in
 `/usr/share/mutt-wizard/mutt-wizard.muttrc`.
 
 ```bash
-git clone https://github.com/LukeSmithxyz/mutt-wizard
+git clone https://github.com/relaytt/mutt-wizard
 cd mutt-wizard
 sudo make install
 ```
